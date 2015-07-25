@@ -24,4 +24,6 @@ end
 gem 'carrierwave'
 gem 'fog', '~> 1.32.0'
 gem 'figaro'
+gem 'mini_magick'
+
 
